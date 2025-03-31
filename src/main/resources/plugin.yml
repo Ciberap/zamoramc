@@ -1,0 +1,11 @@
+main: net.zamoramc.ZamoraMC
+name: ZamoraMC
+version: 0.0.3
+author: Ciberap
+api-version: 1.13
+
+commands:
+  zamoramc:
+    description: Comando principal de ZamoraMC
+    aliases:
+      - zamoramc
